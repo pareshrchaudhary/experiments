@@ -1,2 +1,2 @@
-# fundamental topics of machine learning
+# Experiments, quick tests, fundamentals
 
